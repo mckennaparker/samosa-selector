@@ -36,7 +36,7 @@ const App = () => {
       <div className="header">
         <h1>Samosa Selector</h1>
         <h2>Count: {count}</h2>
-        <img className="samosa" src="/assets/samosa.webp" onClick={updateCount} />
+        <img className="samosa" src="assets/samosa.png" onClick={updateCount} />
       </div>
       <div className="container">
         <div className="upgrade">
